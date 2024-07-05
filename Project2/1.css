@@ -1,0 +1,98 @@
+html,
+body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato",sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.img1{
+    background-image: url(image/Kidnaruto.webp);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img1{
+    background-image: url(image/Kidnaruto.webp);
+    min-height: 100%;
+}
+
+.img2{
+    background-image: url(image/naruto.jpg);
+    min-height: 80%;
+}
+.img3{
+    background-image: url(image/Final_naruto.webp);
+    min-height: 80%;
+}
+
+.img4{
+    background-image: url(image/naruto-hinata-wedding.jpg);
+    min-height: 80%;}
+.img1,
+.img2,
+.img3,
+.img4{
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.text1bg{
+    background-color: #313534;
+    color: #fff;
+    padding: 20px;
+}
+
+.text2bg{
+    background-color: #313534;
+    color: #fff;
+    padding: 20px;}
+
+.text3bg{
+        background-color: #313534;
+        color: #fff;
+        padding: 20px;}
+
+
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+
+.section1{
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.section2{
+    background-color: #282e34;
+    color: #ddd;
+}
+
+.section3{
+    background-color: #282e34;
+    color: #ddd;
+}
+
+.section4{
+    background-color: #282e34;
+    color: #ddd;
+}
